@@ -1,6 +1,3 @@
-### LH_CD_AnaLeticiaRodriguesDeOliveira
-Jupyter notebook que contém as respostas do desafio de Ciência de Dados da Indicium.
-
 # Etapas para executar o notebook jupyter na sua máquina
 ## 1. Tenha o python e o jupyter notebook devidamente instalados e configurados na sua máquina
 Caso não possua algum dos dois instalado ainda, recomendo assistir a [este tutorial do youtube](https://www.youtube.com/watch?v=QfmSEzRXN1o&t=382s).
